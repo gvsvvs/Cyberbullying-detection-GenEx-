@@ -11,3 +11,6 @@ perform the major job at hand i.e cyber bullying detection. Coming to the nature
 used for the task at hand, bullying detection is a binary classification task and the sub tasks are
 also classification models, sentiment analysis being a multi class classification task and rationale
 and target text identification being binary classification tasks.
+
+The paper followed: [GenEx: A Commonsense-aware Unified Generative Framework for
+Explainable Cyberbullying Detection](https://aclanthology.org/2023.emnlp-main.1035.pdf)
